@@ -1,11 +1,14 @@
 esta es la historia
 este es historia001
 este es la historia002
+este es la historia003
 
 esta es su ubicacion
 esta es su ubicacion001
 esta es la ubicacion002
+esta es la ubicacion003
 
 este es su edad
 este es su edad001
-esta es la ubicacion003
+este es su edad002
+este es su edad003
